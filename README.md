@@ -22,3 +22,4 @@ Development Environment: A server-side environment capable of receiving HTTP POS
 Access to Secrets Management: A secure way to store and retrieve shared secrets (e.g., API keys, webhook signing secrets) without hardcoding them directly into your application code. This is critical for maintaining security, as highlighted in the ChainNative Support Design's emphasis on never exposing sensitive information.
 HTTPS Endpoint: Your webhook endpoint must be served over HTTPS to encrypt data in transit and prevent eavesdropping.
 Basic Understanding of Cryptography: Familiarity with hashing algorithms (e.g., HMAC-SHA256) will be beneficial for understanding signature verification.
+To be continue
